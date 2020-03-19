@@ -28,7 +28,7 @@ Adicionalmente se pueden **obtener puntos extra colaborando** con componentes de
 
 Para la ejecución de los proyectos se utilizará el estándar GIT y deberá al menos conocer los comandos básicos y sus argumentos en línea de comando (_clone, add, commit, push y pull_). Mi recomendación es utilizar los accesos al repositorio a través de línea de comando sin utilizar herramientas gráficas para la gestión.
 
-Uno de los modos de **evaluar la participacion de los diferentes componentes del equipo en el proyecto será a través de los _commits_ registrados en los repositorios** de los diferentes proyectos. Es muy importante que los avances queden registrados en el repositorio con las tareas asignadas a cada componente del equipo. Si estas tareas no quedan debidamente registradas, el profesor podrá examinar a los componentes a traves de consultas sobre las diferentes partes del proyecto, con el fin de evaluar su participación efectiva en el mismo.
+Uno de los modos de evaluar la participacion de los diferentes componentes del equipo en el proyecto será a través de los _commits_ registrados en los repositorios de los diferentes proyectos. Es **muy importante que los avances queden registrados en el repositorio** con las tareas asignadas a cada componente del equipo. Si estas tareas no quedan debidamente registradas, el **profesor podrá examinar a los componentes de un equipo** a traves de consultas sobre las diferentes partes realizadas en el proyecto, con el fin de evaluar su participación efectiva en el mismo.
 
 Con el fin de gestionar de una forma más adecuada las diferentes tareas a realizar, se crearán Issues por cada tarea pendiente y se finalizarán añadiendo la palabra _fixes #<num_issue>_ dentro del comentario del comando _commit_.
  
