@@ -15,11 +15,11 @@ Realizar una aplicación que, utilizando OpenGL, cree un modelo en 3D de la raí
 5.	Implementar movimientos de cámara que permitan visualizar las diferentes partes del objeto.
 6.	Implementar un juego en primera persona que consista en capturar objetos que están situados en las diferentes partes del árbol. El personaje irá saltando de una rama a otra de las raíces y de las ramas sobre la superficie. Cada objeto tendrá una puntuación diferente y ganará aquel jugador que consiga obtener más puntos a través de la captura de objetos y mediante el desplazamiento por las diferentes partes del árbol.
 
-Para superar la práctica en los equipos de dos personas será necesario realizar al menos los puntos 1 y 2, valorándose la calidad de los resultados obtenidos. Con una ejecución correcta de estos apartados se obtendrá la calificación de 7 puntos en la práctica. Si alguno de los objetivos no es alcanzado en su totalidad y se realiza de forma imprecisa o con errores entre las diferentes partes del objeto, la puntuación se verá reducida. 
+Para superar la práctica en los _equipos de dos personas_ será necesario realizar al menos los _puntos 1 y 2_, valorándose la calidad de los resultados obtenidos. Con una ejecución correcta de estos apartados se obtendrá la calificación de 7 puntos en la práctica. Si alguno de los objetivos no es alcanzado en su totalidad y se realiza de forma imprecisa o con errores entre las diferentes partes del objeto, la puntuación se verá reducida. 
 
-Para los equipos tres personas será necesario realizar los puntos 1, 2, 3 y 4 para superar la práctica, obteniendo un máximo de 7 puntos si todos los objetivos están completados correctamente. 
+Para los _equipos de tres personas_ será necesario realizar los puntos 1, 2, 3 y 4 para superar la práctica, obteniendo un máximo de 7 puntos si todos los objetivos están completados correctamente. 
 
-En el caso de los equipos de 4 personas será necesario realizar al menos los puntos 1, 2 ,3, 4 y 5 para superar la práctica obteniendo un máximo de 7 puntos si todos los objetivos están completados correctamente.
+En el caso de los _equipos de 4 personas_ será necesario realizar al menos los puntos 1, 2 ,3, 4 y 5 para superar la práctica obteniendo un máximo de 7 puntos si todos los objetivos están completados correctamente.
 
 Para conseguir los puntos restantes hasta alcanzar los 9 puntos los equipos podrán realizar alguna de las características no obligatorias para su grupo. Un punto por cada característica adicional realizada correctamente.
 
@@ -31,5 +31,6 @@ Con el fin de gestionar de una forma más adecuada las diferentes tareas a reali
  
 ## Referencias
 [1] “Generation and visualization of root-like structures in a three-dimensional space”, Louise Y. Spek, 1997
+
 [2] Material de las prácticas de laboratorio del profesor Francisco Moreno Velo
     http://www.uhu.es/francisco.moreno/gii_rv/
