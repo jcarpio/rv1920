@@ -6,7 +6,7 @@ En este artículo se hace referencia a los cuadernos de **Leonardo da Vinci** d�
 
 Para la realización del proyecto se constituirán **equipos de 2 a 4 personas**.
 
-## Requisitos para superar la práctica:
+## Requisitos para superar las prácticas de Realidad Virtual en el curso 2019-2020:
 
 Realizar una aplicación que, utilizando OpenGL, cree un modelo en 3D de la raíz de un árbol siguiendo las indicaciones del artículo [1]
 1.	La aplicación debe contener menús y/o entradas de formulario en las que modificar los parámetros del algoritmo.
