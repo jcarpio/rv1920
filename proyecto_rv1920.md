@@ -15,7 +15,7 @@ Realizar una aplicación que, utilizando OpenGL, cree un modelo en 3D de la raí
 5.	Implementar movimientos de cámara que permitan visualizar las diferentes partes del objeto.
 6.	Implementar un juego en primera persona que consista en capturar objetos que están situados en las diferentes partes del árbol. El personaje irá saltando de una rama a otra de las raíces y de las ramas sobre la superficie. Cada objeto tendrá una puntuación diferente y ganará aquel jugador que consiga obtener más puntos a través de la captura de objetos y mediante el desplazamiento por las diferentes partes del árbol.
 
-Para superar la práctica en los **equipos de dos personas** será necesario realizar al menos los _puntos 1 y 2_, valorándose la calidad de los resultados obtenidos. Con una ejecución correcta de estos apartados se obtendrá la calificación de 7 puntos en la práctica. Si alguno de los objetivos no es alcanzado en su totalidad y se realiza de forma imprecisa o con errores entre las diferentes partes del objeto, la puntuación se verá reducida. 
+Para superar la práctica en los **equipos de dos personas** será necesario realizar al menos los **puntos 1 y 2**, valorándose la calidad de los resultados obtenidos. Con una ejecución correcta de estos apartados se obtendrá la calificación de 7 puntos en la práctica. Si alguno de los objetivos no es alcanzado en su totalidad y se realiza de forma imprecisa o con errores entre las diferentes partes del objeto, la puntuación se verá reducida. 
 
 Para los **equipos de tres personas** será necesario realizar los **puntos 1, 2, 3 y 4** para superar la práctica, obteniendo un **máximo de 7 puntos** si todos los objetivos están completados correctamente. 
 
