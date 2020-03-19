@@ -40,9 +40,9 @@ Como material de apoyo se recomienda seguir las indicaciones de las sesiones de 
 [1] “Generation and visualization of root-like structures in a three-dimensional space”, Louise Y. Spek, 1997
 
 [2] Material de las prácticas de laboratorio del profesor Francisco Moreno Velo.
-    http://www.uhu.es/francisco.moreno/gii_rv/
+       http://www.uhu.es/francisco.moreno/gii_rv/
 
 [3] OpenGL 4 Shading Language Cookbook, David Wolff, 2011
 
 [4] Example code from the OpenGL 4 Shading Language Cookbook, 3rd Edition.
-    https://github.com/PacktPublishing/OpenGL-4-Shading-Language-Cookbook-Third-Edition
+       https://github.com/PacktPublishing/OpenGL-4-Shading-Language-Cookbook-Third-Edition
