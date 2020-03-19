@@ -1,6 +1,8 @@
 # Proyecto de Realidad Virtual
 # Curso 2019-2020
 
+**Importante: este documento puede sufrir modificaciones durante el transcurso del cuatrimestre. Por favor, consulte la última versión del mismo en este repositorio** https://github.com/jcarpio/rv1920
+
 El objetivo de este proyecto será crear un programa que utilice OpenGL y la versión de Visual Studio que está instalada en las aulas (versión 2017), que cree un objeto en 3D siguiendo las indicaciones del artículo “Generation and visualization of root-like structures in a three-dimensional space”, Louise Y. Spek, 1997
 En este artículo se hace referencia a los cuadernos de **Leonardo da Vinci** dónde se describe su regla del diámetro al cuadrado para la ramificación de las ramas de un árbol. Esta regla también se puede aplicar a las raíces de los árboles. La aplicación repetida de esta regla en un programa recursivo produce los diámetros de las ramas. El programa calcula la orientación de las ramas en un espacio tridimensional. La visualización muestra que, a partir de una estructura simétrica relativamente simple es posible generar estructuras más complejas y asimétricas en forma de raíz modificando solo algunos parámetros. La introducción de la aleatoriedad en los valores de los parámetros produce estructuras que difieren considerablemente en su arquitectura. El artículo añade también una fuerza adicional para influir en la orientación de nuevas ramas en el espacio y aumentar la flexibilidad de la formación de la estructura.
 
