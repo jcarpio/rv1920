@@ -1,5 +1,6 @@
 # Proyecto de Realidad Virtual
 # Curso 2019-2020
+### Versión del documento: 1.0
 
 **Importante: este documento puede sufrir modificaciones durante el transcurso del cuatrimestre. Por favor, consulte la última versión del mismo en este repositorio** https://github.com/jcarpio/rv1920
 
@@ -13,8 +14,8 @@ Para la realización del proyecto se constituirán **equipos de 2 a 4 personas**
 Realizar una aplicación que, utilizando OpenGL, cree un modelo en 3D de la raíz de un árbol siguiendo las indicaciones del artículo [1]
 1.	La aplicación debe contener menús y/o entradas de formulario en las que modificar los parámetros del algoritmo.
 2.	El algoritmo implementado para la construcción de las raíces será recursivo.
-3.	Se aplicarán texturas al objeto creado de forma que simulen un árbol real
-4.	Realizar un objeto, siguiendo la misma técnica del articulo [1], que represente a un árbol completo (raíz y ramas sobre la superficie)
+3.	Se aplicarán texturas al objeto creado de forma que simulen un árbol real.
+4.	Realizar un objeto, siguiendo la misma técnica del articulo [1], que represente a un árbol completo (raíz y ramas sobre la superficie).
 5.	Implementar movimientos de cámara que permitan visualizar las diferentes partes del objeto.
 6.	Implementar un juego en primera persona que consista en capturar objetos que están situados en las diferentes partes del árbol. El personaje irá saltando de una rama a otra de las raíces y de las ramas sobre la superficie. Cada objeto tendrá una puntuación diferente y ganará aquel jugador que consiga obtener más puntos a través de la captura de objetos y mediante el desplazamiento por las diferentes partes del árbol.
 
