@@ -1,6 +1,6 @@
 # Proyecto de Realidad Virtual
 # Curso 2019-2020
-### Versión del documento: 1.0.0
+### Versión del documento: 1.0.1
 
 **Importante: este documento puede sufrir modificaciones durante el transcurso del cuatrimestre. Por favor, consulte la última versión del mismo en este repositorio** https://github.com/jcarpio/rv1920
 
@@ -28,6 +28,8 @@ En el caso de los **equipos de 4 personas** será necesario realizar al menos lo
 Para conseguir los puntos restantes hasta **alcanzar los 9 puntos** los equipos podrán realizar alguna de las características no obligatorias para su grupo. Un punto por cada característica adicional realizada correctamente.
 
 Adicionalmente se pueden **obtener puntos extra colaborando** con componentes de otros equipos en la realización del apartado 6. El profesor valorará el resultado obtenido en la realización del juego, otorgando a todos los participantes los mismos puntos adicionales hasta un máximo de 3 puntos extra. Esto obliga a los equipos de 4 personas a colaborar con componentes de otros equipos en la realización de alguna característica del juego y a aquellos componentes que deseen alcanzar la puntuación de 10 a colaborar para realizar algunas de las funcionalidades del juego.
+
+(Actualización v1.0.1) Sólo está permitido utilizar los elementos que se muestran en las prácticas realizadas por el Profesor Francisco Moreno Velo. El objetivo del proyecto es aprender el uso de las directivas de OpenGL, por lo que no está permitido el uso de librerías adicionales. Por lo tanto, debemos realizas las diferentes operaciones en el modo en que se muestran en las prácticas anteriormente citadas.
 
 Para la ejecución de los proyectos se utilizará el estándar GIT y deberá al menos conocer los comandos básicos y sus argumentos en línea de comando (_clone, add, commit, push y pull_). Mi recomendación es utilizar los accesos al repositorio a través de línea de comando sin utilizar herramientas gráficas para la gestión.
 
