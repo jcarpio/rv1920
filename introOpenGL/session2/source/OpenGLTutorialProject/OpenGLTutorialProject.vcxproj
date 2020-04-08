@@ -155,7 +155,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Display.cpp" />
-    <ClCompile Include="OpenGLTutorialProject.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Display.h" />
