@@ -9,5 +9,5 @@ Display::Display(int width, int height, const std::string& title)
 
 Display::~Display()
 {
-	std::cout << "Distructor!" << std::endl;
+	std::cout << "Destructor!" << std::endl;
 }
