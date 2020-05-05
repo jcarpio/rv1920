@@ -8,7 +8,7 @@ El objetivo de este proyecto será crear un programa que utilice OpenGL para la 
 
 En [1] se hace referencia a los cuadernos de **Leonardo da Vinci** dónde se describe su regla del diámetro al cuadrado para la ramificación de las ramas de un árbol. Esta regla también se puede aplicar a las raíces de los árboles. La aplicación repetida de esta regla en un programa recursivo produce los diámetros de las ramas. El programa calcula la orientación de las ramas en un espacio tridimensional. La visualización muestra que, a partir de una estructura simétrica relativamente simple es posible generar estructuras más complejas y asimétricas en forma de raíz modificando solo algunos parámetros. La introducción de la aleatoriedad en los valores de los parámetros produce estructuras que difieren considerablemente en su arquitectura. El artículo añade también una fuerza adicional para influir en la orientación de nuevas ramas en el espacio y aumentar la flexibilidad de la formación de la estructura.
 
-En [5] el biólogo y botánico teórico húngaro Aristid Lindenmayer de la Universidad de Utrecht (1925-1989) se describe una gramática formal que permite modelar el crecimiento de las plantas, pudiendo además modelar la morfología de muchos organismos.
+En [5] se describen los resultados de investigación del biólogo y botánico teórico húngaro Aristid Lindenmayer de la Universidad de Utrecht (1925-1989) que permiten modelar el crecimiento de las plantas, pudiendo además modelar la morfología de muchos organismos.
 
 Para la realización del proyecto se constituirán **equipos de 2 a 4 personas**.
 
