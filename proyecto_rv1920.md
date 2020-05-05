@@ -25,7 +25,7 @@ Para superar la práctica en los **equipos de dos personas** será necesario rea
 
 Para los **equipos de tres personas** será necesario realizar los **puntos 0, 1, 2, 3 y 4** para superar la práctica, obteniendo un **máximo de 7 puntos** si todos los objetivos están completados correctamente. 
 
-En el caso de los **equipos de 4 personas** será necesario realizar al menos los **puntos 0, 1, 2 , 3, 4 y 5** para superar la práctica obteniendo un **máximo de 7 puntos** si todos los objetivos están completados correctamente.
+En el caso de los **equipos de 4 personas** será necesario realizar al menos los **puntos 0, 1, 2 , 3, 4 y 5** para superar la práctica obteniendo un **máximo de 9 puntos** si todos los objetivos están completados correctamente.
 
 Para conseguir los puntos restantes hasta **alcanzar los 9 puntos** los equipos podrán realizar alguna de las características no obligatorias para su grupo. Un punto por cada característica adicional realizada correctamente.
 
