@@ -14,18 +14,18 @@ Para la realización del proyecto se constituirán **equipos de 2 a 4 personas**
 
 ## Requisitos para superar las prácticas de Realidad Virtual en el curso 2019-2020:
 
-Realizar una aplicación que, utilizando OpenGL, cree un modelo en 3D siguiendo las indicaciones descritas anteriormente. 
+0. Realizar una aplicación que, utilizando OpenGL, cree un modelo en 3D siguiendo las indicaciones descritas anteriormente. Para la realización de este apartado puede utizar C++ y Visual Studio o bien Processing. Si realiza las dos versiones se considerará tarea opcional que puntuará como elemento extra.
 1.	La aplicación debe disponer de algún método que permita variar los parámetos del algoritmo. Las opciones para este punto pueden ser  menús, entradas de formulario o bien la modificación de variables globales o locales dentro del programa. La opción que más puntuación dará sera el uso de menús o entradas de formulario, siendo la opción de modificación de variables la que dará una calificación más baja en este apartado.
 2.	El algoritmo implementado para la construcción de las raíces podrá ser recursivo o iterativo. En este apartado se valorará más la calidad del resultado que la elección de un método u otro.
 3.	Se valorará positivamente la aplicación de texturas al objeto creado de forma que simulen un árbol real. Punturá más alto aquel modelo que resulte más realista.
 4.	Implementar movimientos de cámara que permitan visualizar las diferentes partes del objeto. Estos movimientos deben permiter la correcta visualización del objeto en 3D creado. Tendrá una puntuación más alta aquel proyecto que permita visualizar el objeto creado con más detalle.
 5.	Implementar un juego en primera persona que consista en capturar objetos que están situados en las diferentes partes del árbol. El personaje irá saltando de una rama a otra de las raíces y de las ramas sobre la superficie. Cada objeto tendrá una puntuación diferente y ganará aquel jugador que consiga obtener más puntos a través de la captura de objetos y mediante el desplazamiento por las diferentes partes del árbol.
 
-Para superar la práctica en los **equipos de dos personas** será necesario realizar al menos los **puntos 1, 2 y 4**, valorándose la calidad de los resultados obtenidos. Con una ejecución correcta de estos apartados se obtendrá la calificación de 7 puntos en la práctica. Si alguno de los objetivos no es alcanzado en su totalidad y se realiza de forma imprecisa o con errores entre las diferentes partes del objeto, la puntuación se verá reducida. 
+Para superar la práctica en los **equipos de dos personas** será necesario realizar al menos los **puntos 0, 1, 2 y 4**, valorándose la calidad de los resultados obtenidos. Con una ejecución correcta de estos apartados se obtendrá la calificación de 7 puntos en la práctica. Si alguno de los objetivos no es alcanzado en su totalidad y se realiza de forma imprecisa o con errores entre las diferentes partes del objeto, la puntuación se verá reducida. 
 
-Para los **equipos de tres personas** será necesario realizar los **puntos 1, 2, 3 y 4** para superar la práctica, obteniendo un **máximo de 7 puntos** si todos los objetivos están completados correctamente. 
+Para los **equipos de tres personas** será necesario realizar los **puntos 0, 1, 2, 3 y 4** para superar la práctica, obteniendo un **máximo de 7 puntos** si todos los objetivos están completados correctamente. 
 
-En el caso de los **equipos de 4 personas** será necesario realizar al menos los **puntos 1, 2 ,3, 4 y 5** para superar la práctica obteniendo un **máximo de 7 puntos** si todos los objetivos están completados correctamente.
+En el caso de los **equipos de 4 personas** será necesario realizar al menos los **puntos 0, 1, 2 , 3, 4 y 5** para superar la práctica obteniendo un **máximo de 7 puntos** si todos los objetivos están completados correctamente.
 
 Para conseguir los puntos restantes hasta **alcanzar los 9 puntos** los equipos podrán realizar alguna de las características no obligatorias para su grupo. Un punto por cada característica adicional realizada correctamente.
 
