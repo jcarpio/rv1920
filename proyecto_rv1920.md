@@ -5,7 +5,7 @@
 # Repositorios de proyectos realizados
 ### https://github.com/Joseram0n/ARBOL-SIMULATOR
 
-# Intruducción
+# Introducción
 
 **Importante: este documento puede sufrir modificaciones durante el transcurso del cuatrimestre. Por favor, consulte la última versión del mismo en este repositorio** https://github.com/jcarpio/rv1920
 
