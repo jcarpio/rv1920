@@ -5,6 +5,8 @@
 # Repositorios de proyectos realizados
 ### https://github.com/Joseram0n/ARBOL-SIMULATOR
 
+# Intruducción
+
 **Importante: este documento puede sufrir modificaciones durante el transcurso del cuatrimestre. Por favor, consulte la última versión del mismo en este repositorio** https://github.com/jcarpio/rv1920
 
 El objetivo de este proyecto será crear un programa que utilice OpenGL para la creación y manipulación de un objeto en 3D. El objeto se creará a través de código y commandos de OpenGL no estando permitido la importación del objeto como una nube de puntos generado por otros medios (Blender, Unity, etc.). Como herramienta de desarrollo se permitirá el uso de C++ y Visual Studio (versiones 2017 o 2019) y/o la aplicación Processing [6].  Se creará un objeto 3D que represente la raiz de un árbol en 3D o bien un árbol en 3D con o sin raiz. Para la construcción del objeto puede seguir las indicaciones del artículo “Generation and visualization of root-like structures in a three-dimensional space”, Louise Y. Spek, 1997, así como las indicaciones que encontrará en L-system o Lindenmayer system [5].
